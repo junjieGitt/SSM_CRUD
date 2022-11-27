@@ -19,3 +19,13 @@ SSM integrates to develop CRUD quickly
 4. 项目的依赖管理-Maven
 5. 分页-pagehelper
 6. 逆向工程-MyBatis Generator
+
+
+# 基础环境搭建
+1. 创建Maven工程
+2. 引入项目依赖的jar包
+   * Spring
+   * SpringMVC
+   * mybatis
+   * 数据库连接池，驱动包
+   * 其他(jstl, servlet-api, junit)
