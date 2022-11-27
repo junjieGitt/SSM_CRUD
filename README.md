@@ -29,3 +29,9 @@ SSM integrates to develop CRUD quickly
    * mybatis
    * 数据库连接池，驱动包
    * 其他(jstl, servlet-api, junit)
+3. 引入bootstrap前端框架
+4. 编写ssm整合的关键配置文件
+   * web.xml
+   * spring
+   * springmvc
+   * mybatis
