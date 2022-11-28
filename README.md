@@ -35,3 +35,7 @@ SSM integrates to develop CRUD quickly
    * spring
    * springmvc
    * mybatis
+   * 使用mabatis的逆向工程生成对应的bean以及mapper (MBG mybatis generator)
+5. 测试mapper
+
+# 查询
