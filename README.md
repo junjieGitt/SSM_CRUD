@@ -38,4 +38,10 @@ SSM integrates to develop CRUD quickly
    * 使用mabatis的逆向工程生成对应的bean以及mapper (MBG mybatis generator)
 5. 测试mapper
 
-# 查询
+# 查询 
+1. 访问index.jsp页面
+2. index.jsp页面发送查询员工列表请求
+3. EmployeeController来接受请求
+4. 来到list.jsp页面进行展示
+   * Controller 控制处理增删查改 service 业务
+   * URI: /emps
