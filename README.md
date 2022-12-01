@@ -45,3 +45,10 @@ SSM integrates to develop CRUD quickly
 4. 来到list.jsp页面进行展示
    * Controller 控制处理增删查改 service 业务
    * URI: /emps
+   
+# 查询-ajax
+1. index.jsp页面直接发送ajax请求进行员工分页数据的查询
+2. 服务器将查出的数据，以json字符串的形式返回给浏览器
+3. 浏览器收到json字符串,可以使用js对json进行解析，使用js通过dom增删查改改变页面
+4. 返回json, 实现客户端的无关性
+
