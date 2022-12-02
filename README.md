@@ -52,3 +52,8 @@ SSM integrates to develop CRUD quickly
 3. 浏览器收到json字符串,可以使用js对json进行解析，使用js通过dom增删查改改变页面
 4. 返回json, 实现客户端的无关性
 
+# 新增-逻辑
+1. 在index.jsp页面点击"新增"
+2. 弹出新增对话框
+3. 去数据库查询部门列表，显示在对话框中
+4. 用户输入数据完成保存
