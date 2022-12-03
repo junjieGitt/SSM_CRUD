@@ -56,7 +56,8 @@ SSM integrates to develop CRUD quickly
 1. 在index.jsp页面点击"新增"
 2. 弹出新增对话框
 3. 去数据库查询部门列表，显示在对话框中
-4. 用户输入数据完成保存
+4. 用户输入数据，并校验
+5. 完成保存
 
 * URI:
     * /emp/{id} GET查询员工
