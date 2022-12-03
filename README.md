@@ -57,3 +57,10 @@ SSM integrates to develop CRUD quickly
 2. 弹出新增对话框
 3. 去数据库查询部门列表，显示在对话框中
 4. 用户输入数据完成保存
+
+* URI:
+    * /emp/{id} GET查询员工
+    * /emp           POST保存员工
+    * /emp/{id}      PUT修改员工
+    * /emp/{id}      DELETE删除员工
+
