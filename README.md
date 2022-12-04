@@ -65,3 +65,7 @@ SSM integrates to develop CRUD quickly
     * /emp/{id}      PUT修改员工
     * /emp/{id}      DELETE删除员工
 
+# 修改-逻辑
+1. 点击编辑
+2. 弹出用户修改的模态框
+3. 点击更新，完成用户修改
