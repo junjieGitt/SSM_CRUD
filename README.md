@@ -76,5 +76,7 @@ SSM integrates to develop CRUD quickly
 
 
 # 总结
-
+![总体图](https://github.com/junjieGitt/SSM_CRUD/blob/main/image/%E6%80%BB%E4%BD%93%E5%9B%BE.png "总体图")
+![界面1](https://github.com/junjieGitt/SSM_CRUD/blob/main/image/%E7%95%8C%E9%9D%A21.png "界面1")
+![界面2](https://github.com/junjieGitt/SSM_CRUD/blob/main/image/%E7%95%8C%E9%9D%A22.png "界面2")
 
