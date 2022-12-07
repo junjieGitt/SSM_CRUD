@@ -73,3 +73,8 @@ SSM integrates to develop CRUD quickly
 # 删除-逻辑
 1. 点击删除
     * URI:/emp/{id} DELETE
+
+
+# 总结
+
+
